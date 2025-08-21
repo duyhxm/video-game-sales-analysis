@@ -8,7 +8,7 @@
 
 ### Dashboard Hoàn Thiện
 
-![Dashboard Phân Tích Doanh Số Game](images/dashboard_overview.png)
+![Dashboard Phân Tích Doanh Số Game](images/dashboard_overview.gif)
 
 ### Các Câu Hỏi Kinh Doanh Chính
 
